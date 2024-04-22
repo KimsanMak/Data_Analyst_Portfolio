@@ -19,7 +19,7 @@ Check out my [curriculum vitae] and  [LinkedIn Profile](https://www.linkedin.com
     - Instacart: Online Grocery Store
     - Pig E. Bank: Churn Customer Prediction
   - SQL
-    - Rockbuster: Online Movie Rental
+    - [Rockbuster: Online Movie Rental](https://github.com/KimsanMak/SQL-Online_Movie_Rental/tree/main)
   - Tableau
     - Public Health: Influenza Season Preparedness
     - Dashboard: Airbnb Listings in Berlin
