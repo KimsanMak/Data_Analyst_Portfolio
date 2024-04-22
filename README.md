@@ -16,7 +16,7 @@ Check out my [curriculum vitae] and  [LinkedIn Profile](https://www.linkedin.com
 + Projects
   - Python
     - Airbnb: Listings in Berlin
-    - Instacart: Online Grocery Store
+    - [Instacart: Online Grocery Store](https://github.com/KimsanMak/Python-Online_Grocery/tree/main)
     - Pig E. Bank: Churn Customer Prediction
   - SQL
     - [Rockbuster: Online Movie Rental](https://github.com/KimsanMak/SQL-Online_Movie_Rental/tree/main)
