@@ -8,8 +8,8 @@ This is a repository to share projects showcasing my data analytics skills.
 
 ## Table of Contents
 + About Me
-    _Curriculum Vitae
-    _Certificates
++        _Curriculum Vitae
++        _Certificates
   
 + Projects
     _Python
