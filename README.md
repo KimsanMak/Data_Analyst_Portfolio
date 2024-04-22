@@ -14,14 +14,14 @@ Check out my [curriculum vitae] and  [LinkedIn Profile](https://www.linkedin.com
   -Certificates
   
 + Projects
-  -Python
-    -Airbnb: Listings in Berlin
-    -Instacart: Online Grocery Store
-    -Pig E. Bank: Churn Customer Prediction
-  -SQL
-    -Rockbuster: Online Movie Rental
-  -Tableau
-    -Public Health: Influenza Season Preparedness
-    -Dashboard: Airbnb Listings in Berlin
-  -Excel
-    -GameCo: Online Video Games
+  - Python
+    - Airbnb: Listings in Berlin
+    - Instacart: Online Grocery Store
+    - Pig E. Bank: Churn Customer Prediction
+  - SQL
+    - Rockbuster: Online Movie Rental
+  - Tableau
+    - Public Health: Influenza Season Preparedness
+    - Dashboard: Airbnb Listings in Berlin
+  - Excel
+    - GameCo: Online Video Games
