@@ -6,22 +6,22 @@ I want to use my experience and data analytic skills to help your company explor
 
 This is a repository to share projects showcasing my data analytics skills.
 
-Check out my [curriculum vitae] and  [LinkedIn Profile](https://www.linkedin.com/in/kim-san-mak-56061433/)
+Check out my [curriculum vitae] and  [LinkedIn Profile](https://www.linkedin.com/in/kimsan-mak/)
 
 ## Table of Contents
 + About Me
-+        _Curriculum Vitae
-+        _Certificates
+  -Curriculum Vitae
+  -Certificates
   
 + Projects
-    _Python
-      _Airbnb: Listings in Berlin
-      _Instacart: Online Grocery Store
-      _Pig E. Bank: Churn Customer Prediction
-    _SQL
-      _Rockbuster: Online Movie Rental
-    _Tableau
-      _Publich Health: Influenza Season Preparedness
-      _Dashboard: Airbnb Listings in Berlin
-    _Excel
-      -GameCo: Online Video Games
+  -Python
+    -Airbnb: Listings in Berlin
+    -Instacart: Online Grocery Store
+    -Pig E. Bank: Churn Customer Prediction
+  -SQL
+    -Rockbuster: Online Movie Rental
+  -Tableau
+    -Public Health: Influenza Season Preparedness
+    -Dashboard: Airbnb Listings in Berlin
+  -Excel
+    -GameCo: Online Video Games
