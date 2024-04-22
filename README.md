@@ -10,18 +10,15 @@ Check out my [curriculum vitae] and  [LinkedIn Profile](https://www.linkedin.com
 
 ## Table of Contents
 + About Me
-  -Curriculum Vitae
-  -Certificates
-  
-+ Projects
+ + Projects
   - Python
-    - Airbnb: Listings in Berlin
+    - [Airbnb: Listings in Berlin]
     - [Instacart: Online Grocery Store](https://github.com/KimsanMak/Python-Online_Grocery/tree/main)
     - Pig E. Bank: Churn Customer Prediction
   - SQL
     - [Rockbuster: Online Movie Rental](https://github.com/KimsanMak/SQL-Online_Movie_Rental/tree/main)
   - Tableau
     - [Public Health: Influenza Season Preparedness](https://github.com/KimsanMak/Tableau-Hospitals_Influenza_Preparedness)
-    - Dashboard: Airbnb Listings in Berlin
+    - [Dashboard: Airbnb Listings in Berlin]
   - Excel
-    - GameCo: Online Video Games
+    - [GameCo: Online Video Games]
