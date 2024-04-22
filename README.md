@@ -6,6 +6,8 @@ I want to use my experience and data analytic skills to help your company explor
 
 This is a repository to share projects showcasing my data analytics skills.
 
+Check out my [curriculum vitae] and  [LinkedIn Profile](https://www.linkedin.com/in/kim-san-mak-56061433/)
+
 ## Table of Contents
 + About Me
 +        _Curriculum Vitae
