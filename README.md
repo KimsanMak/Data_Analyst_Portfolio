@@ -21,7 +21,7 @@ Check out my [curriculum vitae] and  [LinkedIn Profile](https://www.linkedin.com
   - SQL
     - [Rockbuster: Online Movie Rental](https://github.com/KimsanMak/SQL-Online_Movie_Rental/tree/main)
   - Tableau
-    - Public Health: Influenza Season Preparedness
+    - [Public Health: Influenza Season Preparedness](https://github.com/KimsanMak/Tableau-Hospitals_Influenza_Preparedness)
     - Dashboard: Airbnb Listings in Berlin
   - Excel
     - GameCo: Online Video Games
