@@ -1,8 +1,10 @@
 # Kimsan Mak: Data_Analyst_Portfolio
 ## About Me
-Hi, I am Kimsan, an experienced geoscientist and certified data analyst with an inquisitive mind who likes to explore new challenges. I have research and analytical experience in groundwater, geological, and mineral resource modeling, and a passion for using data to uncover meaningful patterns, trends, and insights. Using my skill set, I have helped companies explore and discover mineral resources, improve mining operations, and assess the risk of groundwater contamination. 
+Hi, I am Kimsan, a modern-day data explorer with experience in geosciences who undertakes data mining to uncover patterns and trends, and to understand the relationships between variables so that the "gold mine" in the data can be unravelled. Over the past decade, I have used my research and modelling skills in groundwater, geological and mineral resources to help companies explore and discover mineral resources, improve their operations, and assess the risk of soil and groundwater contamination at their project sites. I am drawn to data analytics for its practicality in guiding rational decision-making and problem-solving.Beyond my passion for data analytics, photography serves as a creative outlet where my enthusiasm thrives.
 
-I want to use my experience and data analytic skills to help your company explore the mysterious world of big data, make sense of the numbers, utilize the findings, and discover your precious "gold mine" in it.
+With my background in geosciences and extensive experience in data mining, pattern recognition, and relationship analysis, I am well-equipped to assist companies in unlocking valuable insights from their data. Whether it is refining assessment, optimizing processes, improving operational efficiency, or assessing risks, I am committed to leveraging data analytics to drive tangible results for your organization.
+
+I'm currently freelancing in Germany and seeking remote opportunities globally.
 
 This is a repository to share projects showcasing my data analytics skills.
 
