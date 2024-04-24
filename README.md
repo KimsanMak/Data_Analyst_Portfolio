@@ -8,7 +8,7 @@ I'm currently freelancing in Germany and seeking remote opportunities globally.
 
 This is a repository to share projects showcasing my data analytics skills.
 
-Check out my [curriculum vitae] and  [LinkedIn Profile](https://www.linkedin.com/in/kimsan-mak/)
+Check out my [resume](https://github.com/KimsanMak/Resume) and  [LinkedIn Profile](https://www.linkedin.com/in/kimsan-mak/)
 
 ## Table of Contents
 + About Me
