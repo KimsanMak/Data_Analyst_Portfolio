@@ -16,7 +16,7 @@ Check out my [Curriculum Vitae](https://github.com/KimsanMak/Resume) and  [Linke
     - Python
       - [Airbnb: Listings in Berlin]
       - [Instacart: Online Grocery Store](https://github.com/KimsanMak/Python-Online_Grocery/tree/main)
-      - Pig E. Bank: Churn Customer Prediction
+      - [Pig E. Bank: Churn Customer Prediction](https://github.com/KimsanMak/Pig-E.-Bank-Churn-Customer-Prediction/tree/main)
     - SQL
       - [Rockbuster: Online Movie Rental](https://github.com/KimsanMak/SQL-Online_Movie_Rental/tree/main)
     - Tableau
