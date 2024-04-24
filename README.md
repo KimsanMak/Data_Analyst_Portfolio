@@ -14,7 +14,7 @@ Check out my [Curriculum Vitae](https://github.com/KimsanMak/Resume) and  [Linke
 + About Me
  + Projects
     - Python
-      - [Airbnb: Listings in Berlin]
+      - [Airbnb: Listings in Berlin](https://github.com/KimsanMak/Airbnb-Listings-in-Berlin)
       - [Instacart: Online Grocery Store](https://github.com/KimsanMak/Python-Online_Grocery/tree/main)
       - [Pig E. Bank: Churn Customer Prediction](https://github.com/KimsanMak/Pig-E.-Bank-Churn-Customer-Prediction/tree/main)
     - SQL
