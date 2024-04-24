@@ -21,6 +21,6 @@ Check out my [Curriculum Vitae](https://github.com/KimsanMak/Resume) and  [Linke
       - [Rockbuster: Online Movie Rental](https://github.com/KimsanMak/SQL-Online_Movie_Rental/tree/main)
     - Tableau
       - [Public Health: Influenza Season Preparedness](https://github.com/KimsanMak/Tableau-Hospitals_Influenza_Preparedness)
-      - [Dashboard: Airbnb Listings in Berlin]
+      - [Dashboard: Airbnb Listings in Berlin](https://public.tableau.com/app/profile/kimsan.mak/viz/AirbnbBerlin_17123539307510/InteractiveDashboard?publish=yes)
     - Excel
       - [GameCo: Online Video Games]
