@@ -1,4 +1,4 @@
-# Kimsan Mak: Data_Analyst_Portfolio
+# Kimsan Mak: Data Analyst Portfolio
 ## About Me
 Hi, I am Kimsan, a modern-day data explorer with experience in geosciences who undertakes data mining to uncover patterns and trends, and to understand the relationships between variables so that the "gold mine" in the data can be unravelled. Over the past decade, I have used my research and modelling skills in groundwater, geological and mineral resources to help companies explore and discover mineral resources, improve their operations, and assess the risk of soil and groundwater contamination at their project sites. I am drawn to data analytics for its practicality in guiding rational decision-making and problem-solving. Beyond my passion for data analytics, photography serves as a creative outlet where my enthusiasm thrives.
 
